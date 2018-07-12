@@ -35,9 +35,6 @@ plt.show()
 ```
 
 
-![png](output_3_0.png)
-
-
 ## TODO: Implementing the basic functions
 Here is your turn to shine. Implement the following formulas, as explained in the text.
 - Sigmoid activation function
@@ -193,11 +190,3 @@ train(X, y, epochs, learnrate, True)
     ========== Epoch 90 ==========
     Train loss:  0.3379273658879921
     Accuracy:  0.94
-
-
-
-![png](output_9_1.png)
-
-
-
-![png](output_9_2.png)
